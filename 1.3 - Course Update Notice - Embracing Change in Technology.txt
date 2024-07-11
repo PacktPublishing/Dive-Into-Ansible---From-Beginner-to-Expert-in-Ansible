@@ -1,0 +1,14 @@
+As you embark on this learning journey, I want to take a short moment to discuss the dynamic nature of the technologies we're exploring together.
+
+Given the fast-paced evolution of the open-source ecosystem and many moving parts, you may encounter slight differences between the course content and the lab environments you'll be using. For instance, the version of Ansible shown in the videos may be one version, whereas your lab could be running on a newer version.
+
+These differences, though minor, are a natural part of working with cutting-edge technology. They stem from our commitment to providing you with the most current and robust learning experience possible. I've continously supported and updated this course since 2017 and I'm regularly updating our lab environments to include the latest versions of Ansible and supported updates, ensuring you have access to the best tools at your fingertips!
+
+I appreciate your understanding and flexibility. Periodically I address minor changes in the course with a complete refresh of the content and so far, have done 3 full re-iterations, naturally these are very time consuming so are limited but, you will always receive future updates when these happen. By focusing on maintaining the most crucial updates, rather than re-filming for each and every minor change, we can devote more resources to enhancing the course's quality and your learning experience.
+
+Thank you for joining us on this educational adventure in the world of Ansible. Let’s embrace the changes and challenges together, turning them into opportunities for growth and learning. If you are unfortunate to encounter any issues or have questions, I'm here to help and I will always aim to fix anything that arises, let’s make this journey a success together!
+
+Best regards,
+
+James Spurin
+Course Instructor
